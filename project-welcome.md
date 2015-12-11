@@ -8,6 +8,7 @@
 
 * (link to spreadsheet example)
 * (link to MIT IAP project page)
+* [project wiki](https://github.com/ClarenceDowSpielman/project-prep/wiki)
 * other stuff
 
 ## For more information and to get involved:
